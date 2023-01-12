@@ -26,7 +26,7 @@ Cloud computing platform offering a set of hosting services:
 
 ==Sources
 
-All free at the time of writing!
+All free at time of writing!
 
 --Microsoft Azure fundamentals (6 learning paths)
 ----Learning path 1/6: Describe core Azure concepts (3 modules)
