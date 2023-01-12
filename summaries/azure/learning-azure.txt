@@ -1,0 +1,36 @@
+
+==What
+
+Cloud computing platform offering a set of hosting services:
+
+--Web
+--VMs
+--Network
+--Storage
+--Database
+--Centralized account management
+--AI
+--ML
+--IoT
+
+
+==Cloud concepts: S.HA.E.DR.A.G
+
+--Scalability
+--High availability
+--Elasticity
+--Disaster recovery
+--Agility
+--Geo-distribution
+
+
+==Sources
+
+All free at the time of writing!
+
+--Microsoft Azure fundamentals (6 learning paths)
+----Learning path 1/6: Describe core Azure concepts (3 modules)
+------Module 1: Introduction to Azure fundamentals (8 units)
+------Module 2: Discuss Azure fundamental concepts (6 units)
+------Module 3: Describe core Azure architectural components (7 units)
+
