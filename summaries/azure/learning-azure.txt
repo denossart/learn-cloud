@@ -1,5 +1,5 @@
 
-==What
+==What is Azure?
 
 Cloud computing platform offering a set of hosting services:
 
@@ -13,15 +13,64 @@ Cloud computing platform offering a set of hosting services:
 --ML
 --IoT
 
+Services are delivered over the internet through datacenters run by cloud providers
+
+--Basic services: compute power and storage
+
+--A pay-as-you-go pricing model for the cloud resources that you use
+
+--Virtualization
+
+Using a hypervisor
+
 
 ==Cloud concepts: S.HA.E.DR.A.G
 
 --Scalability
+Vertically - horizontally
+
 --High availability
+Depending on SLA
+
 --Elasticity
+Autoscaling
+
 --Disaster recovery
+Backups, data replication,...
+
 --Agility
+Adapt quickly as required)
+
 --Geo-distribution
+Regional datacenters
+
+
+==Architecture components: S.MG.R.RG
+
+--Subscriptions
+--Management groups
+--Resources
+--Resource groups
+
+
+==Geographic distribution concepts: R.RP.AZ
+
+--Regions
+--Region pairs
+--Availability zones
+
+
+==AZ-900 Excam knowledge domain areas:
+
+--Describe Azure cloud concepts
+--Describe core Azure services
+--Describe core solutions and management tools on Azure
+--Describe general security and network security features
+--Describe identity, governance, privacy and compliance features
+--Describe Microsoft cost management and Service Level Agreements
+
+
+
 
 
 ==Sources
